@@ -1,0 +1,31 @@
+  
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  .background-image {
+    background-image: url("/assets/images/image554048.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+  }
+  
+  .form-container {
+    margin-left: 8%;
+  }
